@@ -1,0 +1,12 @@
+﻿AccountGroup,AccountGroupKey,isSubtotal
+(+) Receita Operacional Bruta,1,-1
+(-) Abatimentos da Receita Bruta,2,-1
+(=) Receita Operacional Líquida,3,1
+(-) Custos de Produção,4,-1
+(=) Margem Bruta,5,1
+(-) Despesas Operacionais,6,-1
+(=) EBITDA,7,1
+(+/-) Resultado Financeiro,8,-1
+(=) EBIT,9,1
+(-) Imposto de Renda / CSLL,10,-1
+(=) Lucro Líquido,11,1

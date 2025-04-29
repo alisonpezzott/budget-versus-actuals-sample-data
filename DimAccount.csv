@@ -1,0 +1,63 @@
+﻿AccountGroupKey,AccountSubgroupKey,AccountSubgroup,ControlAccountKey,ControlAccount,SubsidiaryAccountKey,SubsidiaryAccount
+1,1001,Vendas de Produtos,1001001,Automotivo/Industrial,1001001001,Automotivo/Industrial
+1,1001,Vendas de Produtos,1001002,Standard,1001002002,Standard
+1,1001,Vendas de Produtos,1001003,Adesivos/Fixadores,1001003003,Adesivos/Fixadores
+1,1002,Vendas de Serviços,1002001,Consultorias,1002001001,Consultorias
+1,1002,Vendas de Serviços,1002002,Treinamentos,1002002002,Treinamentos
+2,2001,Devoluções,2001001,Devoluções,2001001001,Devoluções
+2,2003,Descontos Comerciais,2003001,Descontos s/ Contratos,2003001001,Descontos s/ Contratos
+2,2003,Descontos Comerciais,2003002,Bonificações e Doações,2003002002,Bonificações e Doações
+2,2004,Fretes s/ Entregas,2004001,Fretes s/ Entregas,2004001001,Fretes s/ Entregas
+2,2005,Impostos s/ Vendas,2005001,ICMS,2005001001,ICMS
+2,2005,Impostos s/ Vendas,2005002,PIS,2005002002,PIS
+2,2005,Impostos s/ Vendas,2005003,COFINS,2005003003,COFINS
+4,4001,Mão de Obra Direta (MOD),4001001,Salários e Ordenados (MOD),4001001001,Salários (MOD)
+4,4001,Mão de Obra Direta (MOD),4001001,Salários e Ordenados (MOD),4001001002,Horas Extras (MOD)
+4,4001,Mão de Obra Direta (MOD),4001001,Salários e Ordenados (MOD),4001001003,Férias (MOD)
+4,4001,Mão de Obra Direta (MOD),4001001,Salários e Ordenados (MOD),4001001004,13º Terceiro (MOD)
+4,4001,Mão de Obra Direta (MOD),4001001,Salários e Ordenados (MOD),4001001005,Bonificações (MOD)
+4,4001,Mão de Obra Direta (MOD),4001001,Salários e Ordenados (MOD),4001001006,Rescisão (MOD)
+4,4001,Mão de Obra Direta (MOD),4001002,Encargos Sociais (MOD),4001002007,FGTS (MOD)
+4,4001,Mão de Obra Direta (MOD),4001002,Encargos Sociais (MOD),4001002008,INSS (MOD)
+4,4001,Mão de Obra Direta (MOD),4001002,Encargos Sociais (MOD),4001002009,Encargos s/ Rescisão (MOD)
+4,4001,Mão de Obra Direta (MOD),4001003,Benefícios (MOD),4001003010,Transporte (MOD)
+4,4001,Mão de Obra Direta (MOD),4001003,Benefícios (MOD),4001003011,Plano de Saúde (MOD)
+4,4001,Mão de Obra Direta (MOD),4001003,Benefícios (MOD),4001003012,Alimentação (MOD)
+4,4002,Matéria-Prima,4002001,Resinas/Polímeros,4002001001,Resinas/Polímeros
+4,4002,Matéria-Prima,4002002,Pigmentos,4002002002,Pigmentos
+4,4002,Matéria-Prima,4002003,Solventes/Aditivos,4002003003,Solventes/Aditivos
+4,4003,Variáveis,4003001,Água,4003001001,Água
+4,4003,Variáveis,4003002,Embalagens,4003002002,Embalagens
+4,4003,Variáveis,4003003,Energia Elétrica,4003003003,Energia Elétrica
+4,4003,Variáveis,4003004,Outros Custos de Produção,4003004004,Outros Custos de Produção
+6,6001,Mão de Obra Indireta (MOI),6001001,Salários e Ordenados (MOI),6001001001,Salários (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001001,Salários e Ordenados (MOI),6001001002,Horas Extras (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001001,Salários e Ordenados (MOI),6001001003,Férias (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001001,Salários e Ordenados (MOI),6001001004,13º Terceiro (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001001,Salários e Ordenados (MOI),6001001005,Bonificações (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001001,Salários e Ordenados (MOI),6001001006,Rescisão (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001002,Encargos Sociais (MOI),6001002007,FGTS (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001002,Encargos Sociais (MOI),6001002008,INSS (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001002,Encargos Sociais (MOI),6001002009,Encargos s/ Rescisão (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001003,Benefícios (MOI),6001003010,Transporte (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001003,Benefícios (MOI),6001003011,Plano de Saúde (MOI)
+6,6001,Mão de Obra Indireta (MOI),6001003,Benefícios (MOI),6001003012,Alimentação (MOI)
+6,6002,Manutenção,6002001,Manutenção de Máquinas e Equipamentos,6002001001,Manutenção de Máquinas e Equipamentos
+6,6002,Manutenção,6002002,Manutenção Predial,6002002002,Manutenção Predial
+6,6003,Tecnologia da Informação,6003001,Licenças/Aluguéis,6003001001,Licenças/Aluguéis
+6,6003,Tecnologia da Informação,6003002,Consultorias/Serviços,6003002002,Consultorias/Serviços
+6,6003,Tecnologia da Informação,6003003,Hardware,6003003003,Hardware
+6,6004,Garantia da Qualidade,6004001,Análises Laboratoriais,6004001001,Análises Laboratoriais
+6,6005,Outras Despesas,6005001,Aluguéis de Máquinas e Equipamentos,6005001001,Aluguéis de Máquinas e Equipamentos
+6,6005,Outras Despesas,6005002,Materiais de Segurança,6005002002,Materiais de Segurança
+6,6005,Outras Despesas,6005003,Materiais de Escritório,6005003003,Materiais de Escritório
+6,6005,Outras Despesas,6005004,Serviços Terceirizados,6005004004,Serviços Terceirizados
+6,6005,Outras Despesas,6005005,Despesas com Viagens,6005005005,Despesas com Viagens
+6,6005,Outras Despesas,6005006,Uniformes,6005006006,Uniformes
+8,8001,Despesas Bancárias,8001001,Tarifas de Manutenção de Conta,8001001001,Tarifas de Manutenção de Conta
+8,8001,Despesas Bancárias,8001002,Custos de Operações de Câmbio,8001002002,Custos de Operações de Câmbio
+8,8002,Resultado Mercado Variável,8002001,Ganhos/Perdas de Capital com Ações,8002001001,Ganhos/Perdas de Capital com Ações
+8,8002,Resultado Mercado Variável,8002002,Rendimentos de Fundos de Investimento,8002002002,Rendimentos de Fundos de Investimento
+8,8003,Juros s/ Empréstimos e Financiamentos,8003001,Juros s/ Empréstimos e Financiamentos,8003001001,Juros s/ Empréstimos e Financiamentos
+10,10001,Imposto de Renda,10001001,Imposto de Renda,10001001001,Imposto de Renda
+10,10001,Contribuição Social sobre o Lucro Líquido,10001002,Contribuição Social sobre o Lucro Líquido,10001002002,Contribuição Social sobre o Lucro Líquido
